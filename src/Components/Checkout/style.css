@@ -1,0 +1,49 @@
+.checkout {
+    margin-top: 150px;
+    padding-bottom: 15px;
+  }
+  
+  .checkout .paper {
+    max-width: 600px;
+    padding: 20px 15px;
+    margin: 0 auto;
+    background-color: #c9d1d9;
+  }
+  
+  .checkout .paper h6 {
+    margin: 20px 0;
+  }
+  
+  .checkout .paper .actions.payment-actions {
+    margin-top: 25px;
+  }
+  .checkout .paper .actions {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .checkout .paper .actions a {
+    margin-right: 15px;
+    margin-left: 0;
+  }
+  
+  .checkout .paper .stepper {
+    background-color: #c8d1d9;
+  }
+  
+  .products-spinner {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+  }
+  
+  .confirmation h5 {
+    margin: 20px 0;
+  }
+  
+  .confirmation a {
+    color: #000000;
+    background-color: #03dac5;
+  }
+  
